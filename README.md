@@ -59,7 +59,7 @@
 
 <div>
   <h3>:fire: My Stats :</h3>
-  <a align="left" href="https://git.io/streak-stats" width="40%"><img src="http://github-readme-streak-stats.herokuapp.com?user=bhupendraptlk&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D"/></a>
+  <img align="left" width="40%" src="http://github-readme-streak-stats.herokuapp.com?user=bhupendraptlk&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
   <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhupendraptlk&layout=compact&theme=vision-friendly-dark"/>
 </div>
 <br>
