@@ -2,9 +2,10 @@
 
 ## I'm Bhupendra Patel
 
-- 👨‍🎓 B.Tech CSE Student at Lovely Professional University
-- 🌱 I'm currently learning Full Stack Web Development and Programming
-- 👯 I'm looking to collaborate on anything that is fun and add to my knowledge 
+- 💼 Ex-Intern @Dukaan®
+- 👨‍🎓 B.Tech CSE Student at Lovely Professional University.
+- 🌱 I'm currently learning Full Stack Web Development and Programming..
+- 👯 I'm looking to collaborate on anything that is fun and add to my knowledge.
 
 ---
 
