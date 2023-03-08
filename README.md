@@ -2,6 +2,7 @@
 
 ## I'm Bhupendra Patel
 
+- 👨‍🔧 Web Developer @GDSC LPU.
 - 💼 Ex-Intern @Dukaan®
 - 👨‍🎓 B.Tech CSE Student at Lovely Professional University.
 - 🌱 I'm currently learning Full Stack Web Development and Programming..
